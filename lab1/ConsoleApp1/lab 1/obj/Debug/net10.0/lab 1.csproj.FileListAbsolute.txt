@@ -1,0 +1,28 @@
+/Users/daniil/Desktop/uni/Програмна технологія .NET/Новая папка/ConsoleApp1/lab 1/bin/Debug/net10.0/lab 1
+/Users/daniil/Desktop/uni/Програмна технологія .NET/Новая папка/ConsoleApp1/lab 1/bin/Debug/net10.0/lab 1.deps.json
+/Users/daniil/Desktop/uni/Програмна технологія .NET/Новая папка/ConsoleApp1/lab 1/bin/Debug/net10.0/lab 1.runtimeconfig.json
+/Users/daniil/Desktop/uni/Програмна технологія .NET/Новая папка/ConsoleApp1/lab 1/bin/Debug/net10.0/lab 1.dll
+/Users/daniil/Desktop/uni/Програмна технологія .NET/Новая папка/ConsoleApp1/lab 1/bin/Debug/net10.0/lab 1.pdb
+/Users/daniil/Desktop/uni/Програмна технологія .NET/Новая папка/ConsoleApp1/lab 1/obj/Debug/net10.0/lab 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/Desktop/uni/Програмна технологія .NET/Новая папка/ConsoleApp1/lab 1/obj/Debug/net10.0/lab 1.AssemblyInfoInputs.cache
+/Users/daniil/Desktop/uni/Програмна технологія .NET/Новая папка/ConsoleApp1/lab 1/obj/Debug/net10.0/lab 1.AssemblyInfo.cs
+/Users/daniil/Desktop/uni/Програмна технологія .NET/Новая папка/ConsoleApp1/lab 1/obj/Debug/net10.0/lab 1.csproj.CoreCompileInputs.cache
+/Users/daniil/Desktop/uni/Програмна технологія .NET/Новая папка/ConsoleApp1/lab 1/obj/Debug/net10.0/lab 1.dll
+/Users/daniil/Desktop/uni/Програмна технологія .NET/Новая папка/ConsoleApp1/lab 1/obj/Debug/net10.0/refint/lab 1.dll
+/Users/daniil/Desktop/uni/Програмна технологія .NET/Новая папка/ConsoleApp1/lab 1/obj/Debug/net10.0/lab 1.pdb
+/Users/daniil/Desktop/uni/Програмна технологія .NET/Новая папка/ConsoleApp1/lab 1/obj/Debug/net10.0/lab 1.genruntimeconfig.cache
+/Users/daniil/Desktop/uni/Програмна технологія .NET/Новая папка/ConsoleApp1/lab 1/obj/Debug/net10.0/ref/lab 1.dll
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab1/ConsoleApp1/lab 1/bin/Debug/net10.0/lab 1
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab1/ConsoleApp1/lab 1/bin/Debug/net10.0/lab 1.deps.json
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab1/ConsoleApp1/lab 1/bin/Debug/net10.0/lab 1.runtimeconfig.json
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab1/ConsoleApp1/lab 1/bin/Debug/net10.0/lab 1.dll
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab1/ConsoleApp1/lab 1/bin/Debug/net10.0/lab 1.pdb
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab1/ConsoleApp1/lab 1/obj/Debug/net10.0/lab 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab1/ConsoleApp1/lab 1/obj/Debug/net10.0/lab 1.AssemblyInfoInputs.cache
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab1/ConsoleApp1/lab 1/obj/Debug/net10.0/lab 1.AssemblyInfo.cs
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab1/ConsoleApp1/lab 1/obj/Debug/net10.0/lab 1.csproj.CoreCompileInputs.cache
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab1/ConsoleApp1/lab 1/obj/Debug/net10.0/lab 1.dll
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab1/ConsoleApp1/lab 1/obj/Debug/net10.0/refint/lab 1.dll
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab1/ConsoleApp1/lab 1/obj/Debug/net10.0/lab 1.pdb
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab1/ConsoleApp1/lab 1/obj/Debug/net10.0/lab 1.genruntimeconfig.cache
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab1/ConsoleApp1/lab 1/obj/Debug/net10.0/ref/lab 1.dll
