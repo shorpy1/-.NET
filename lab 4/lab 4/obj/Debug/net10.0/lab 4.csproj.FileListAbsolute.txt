@@ -1,0 +1,14 @@
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab 4/lab 4/bin/Debug/net10.0/lab 4
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab 4/lab 4/bin/Debug/net10.0/lab 4.deps.json
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab 4/lab 4/bin/Debug/net10.0/lab 4.runtimeconfig.json
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab 4/lab 4/bin/Debug/net10.0/lab 4.dll
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab 4/lab 4/bin/Debug/net10.0/lab 4.pdb
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab 4/lab 4/obj/Debug/net10.0/lab 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab 4/lab 4/obj/Debug/net10.0/lab 4.AssemblyInfoInputs.cache
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab 4/lab 4/obj/Debug/net10.0/lab 4.AssemblyInfo.cs
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab 4/lab 4/obj/Debug/net10.0/lab 4.csproj.CoreCompileInputs.cache
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab 4/lab 4/obj/Debug/net10.0/lab 4.dll
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab 4/lab 4/obj/Debug/net10.0/refint/lab 4.dll
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab 4/lab 4/obj/Debug/net10.0/lab 4.pdb
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab 4/lab 4/obj/Debug/net10.0/lab 4.genruntimeconfig.cache
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab 4/lab 4/obj/Debug/net10.0/ref/lab 4.dll
