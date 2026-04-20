@@ -1,0 +1,11 @@
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab2/ClassLibrary1 lab 2 /ClassLibrary1 lab 2 /bin/Debug/net10.0/TextLib.deps.json
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab2/ClassLibrary1 lab 2 /ClassLibrary1 lab 2 /bin/Debug/net10.0/TextLib.dll
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab2/ClassLibrary1 lab 2 /ClassLibrary1 lab 2 /bin/Debug/net10.0/TextLib.pdb
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab2/ClassLibrary1 lab 2 /ClassLibrary1 lab 2 /obj/Debug/net10.0/ClassLibrary1 lab 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab2/ClassLibrary1 lab 2 /ClassLibrary1 lab 2 /obj/Debug/net10.0/ClassLibrary1 lab 2.AssemblyInfoInputs.cache
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab2/ClassLibrary1 lab 2 /ClassLibrary1 lab 2 /obj/Debug/net10.0/ClassLibrary1 lab 2.AssemblyInfo.cs
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab2/ClassLibrary1 lab 2 /ClassLibrary1 lab 2 /obj/Debug/net10.0/ClassLibrary1 lab 2.csproj.CoreCompileInputs.cache
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab2/ClassLibrary1 lab 2 /ClassLibrary1 lab 2 /obj/Debug/net10.0/TextLib.dll
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab2/ClassLibrary1 lab 2 /ClassLibrary1 lab 2 /obj/Debug/net10.0/refint/TextLib.dll
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab2/ClassLibrary1 lab 2 /ClassLibrary1 lab 2 /obj/Debug/net10.0/TextLib.pdb
+/Users/daniil/Desktop/uni/Програмна технологія .NET/lab2/ClassLibrary1 lab 2 /ClassLibrary1 lab 2 /obj/Debug/net10.0/ref/TextLib.dll
