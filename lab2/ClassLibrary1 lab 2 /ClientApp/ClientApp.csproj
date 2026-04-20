@@ -8,7 +8,7 @@
         <RootNamespace>ClientApp</RootNamespace>
     </PropertyGroup>
 
-    <!-- Посилання на DLL-проєкт: TextLib.dll копіюється в папку з exe при збірці -->
+
     <ItemGroup>
         <ProjectReference Include="..\ClassLibrary1 lab 2 \ClassLibrary1 lab 2.csproj">
             <Private>true</Private>
